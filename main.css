@@ -6,10 +6,10 @@ body{
 
 
 .Circle{
-    hight: 3rem;
+    height: 3rem;
     width:3rem;
     border-radius: 25px;
-    bgcolor
+    background-color: black;
 }
 
 img{
