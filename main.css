@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap');
+
+body{
+    font-family : Sofadi One, sanserif;
+}
+
+
+.Circle{
+    hight: 3rem;
+    width:3rem;
+    border-radius: 25px;
+    bgcolor
+}
+
+img{
+    border-radius: 25px;
+}
